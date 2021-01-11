@@ -1,0 +1,15 @@
+body{
+    background-color: #ecf0f1;
+    color: #34495e;
+}
+.clickes{
+    color: #7f8c8d;
+}
+.js-form, .greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
+
